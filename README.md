@@ -15,7 +15,7 @@ A smart web application that recommends the **most suitable crop** to grow based
   * Temperature (°C), Humidity (%), pH, Rainfall (mm)
 * **Lightweight ML model** for fast predictions.
 * Fully **integrated frontend and backend**.
-* Ready for deployment on **AWS EC2**.
+* Deployed on **AWS EC2**.
 
 ---
 
@@ -28,7 +28,7 @@ A smart web application that recommends the **most suitable crop** to grow based
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started (Run on your local machine)
 
 ### **1️⃣ Clone the repository**
 
